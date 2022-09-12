@@ -7,6 +7,7 @@ package com.mycompany.app;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Paul's Remote World!");
+        int i = 123456;
+        System.out.printf("Hello Paul's Remote Java World! - %d\n", i);
     }
 }
